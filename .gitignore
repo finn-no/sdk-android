@@ -6,3 +6,5 @@
 
 *.iml
 .idea
+target
+gen-external-*
