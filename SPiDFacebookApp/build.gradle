@@ -24,5 +24,6 @@ android {
 
 dependencies {
     compile project(':SPiDSDK')
+    compile 'fr.avianey:facebook-android-api:+@aar'
 }
 
